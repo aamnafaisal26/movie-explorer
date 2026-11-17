@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+  <rect width="400" height="600" fill="#2c3042"/>
+  <text x="200" y="300" font-family="Segoe UI, sans-serif" font-size="120" text-anchor="middle" fill="#9aa0b4">🎬</text>
+  <text x="200" y="380" font-family="Segoe UI, sans-serif" font-size="28" text-anchor="middle" fill="#9aa0b4">No poster yet</text>
+</svg>
