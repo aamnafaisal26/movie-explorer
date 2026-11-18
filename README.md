@@ -24,13 +24,13 @@ personal watchlist that is saved in the browser (no account needed).
 ```
 index.html            Browse page: search, genre buttons, sort, movie grid
 watchlist.html        Saved movies with Remove buttons
-css/style.css         All styles (dark theme, responsive grid)
+css/style.css         All styles
 data/movies.js        Movie data (JSON array in a JS constant)
 js/cards.js           Builds a card from a movie object, details modal
 js/filters.js         Search, genre and sort logic
 js/watchlist.js       localStorage add / remove / read
 js/main.js            Wires everything together per page
-images/posters/       Poster images (placeholder.svg used when missing)
+images/posters/       Poster images
 ```
 
 ## Who owns what
